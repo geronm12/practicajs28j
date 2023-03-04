@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: #aebeeb;
+}
+
+.add {
+  width: 396px;
+  height: 193.5px;
+  background-color: white;
+  border: 0.5 solid black;
+  padding: 20px;
+}
